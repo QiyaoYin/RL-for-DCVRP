@@ -1,2 +1,4 @@
 # RL-for-DCVRP
-Data: the training and test data.
+data: the training and test data.
+test: the test code.
+train: the training code.
